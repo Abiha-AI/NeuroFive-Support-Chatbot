@@ -3,7 +3,7 @@
 A console-based Python chatbot powered by the Gemini API, designed to act as "Nova" a friendly IT helpdesk assistant for NeuroFive Solutions. Built using a custom system prompt to control persona, tone, and topic boundaries.
 
 ## 📌 Overview
-This project demonstrates how to connect to a real LLM API and shape its behavior entirely through a system prompt — no fine-tuning, no training data, just prompt engineering. Nova answers IT support questions in character, politely redirects off-topic questions, and resists prompt-injection attempts trying to break her persona.
+This project demonstrates how to connect to a real LLM API and shape its behavior entirely through a system prompt no fine-tuning, no training data, just prompt engineering. Nova answers IT support questions in character, politely redirects off-topic questions, and resists prompt-injection attempts trying to break her persona.
 
 ## ⚙️ Features
 - **Custom persona** — Nova, a warm and professional IT helpdesk assistant
@@ -45,7 +45,7 @@ Nova: I'm just your IT helpdesk buddy let's - stick to tech stuff! 😊
 Is there a technical issue, password reset, or software problem I can help you with today?
 ```
 ## 🧪 Test Cases
-The script tests 5 scenarios: a technical question, a follow-up request, a frustrated user, an off-topic question, and a direct prompt-injection attempt all handled correctly while staying in character.
+The script tests 5 scenarios: a technical question, a follow-up request, a frustrated user, an off-topic question, and a direct prompt injection attempt all handled correctly while staying in character.
 
 ## 📖 About
 Built as an introduction to working with LLM APIs directly moving from *using* AI tools to *building* with them. This project focuses on system prompt design as the core mechanism for controlling an AI's behavior, tone, and boundaries.
