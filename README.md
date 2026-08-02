@@ -1,6 +1,6 @@
 # 🤖 Neurofive Support Chatbot
 
-A console-based Python chatbot powered by the Gemini API, designed to act as "Nova" a friendly IT helpdesk assistant for Neurofive Solutions. Built using a custom system prompt to control persona, tone, and topic boundaries.
+A console-based Python chatbot powered by the Gemini API, designed to act as "Nova" a friendly IT helpdesk assistant for NeuroFive Solutions. Built using a custom system prompt to control persona, tone, and topic boundaries.
 
 ## 📌 Overview
 This project demonstrates how to connect to a real LLM API and shape its behavior entirely through a system prompt — no fine-tuning, no training data, just prompt engineering. Nova answers IT support questions in character, politely redirects off-topic questions, and resists prompt-injection attempts trying to break her persona.
